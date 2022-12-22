@@ -1,0 +1,48 @@
+
+p{
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family: 'Barlow Condensed';
+}
+h4{
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family: 'Barlow Condensed';
+}
+
+div{
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family: 'Barlow Condensed';
+}
+h3{
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family: 'Barlow Condensed';
+}
+h4{
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family: 'Rubik Vinyl', cursive;
+}
+
+ol{
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family: 'Barlow Condensed';
+}
+
+img {
+    filter: contrast(1.8) brightness(1.5) grayscale(1);
+  }
+  figure:before {
+    z-index: 3;
+    mix-blend-mode: overlay;
+    box-shadow: 0 0 200px black inset;
+  }
